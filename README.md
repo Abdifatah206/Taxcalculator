@@ -1,7 +1,7 @@
 # Taxcalculator
 Simple tax calculator, I used HTML, Angular, CSS and JavaScript.
 
-Prerequests
+#Prerequests
 
 Installing:
 Node.js
